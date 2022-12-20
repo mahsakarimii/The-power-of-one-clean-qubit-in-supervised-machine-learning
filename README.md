@@ -41,6 +41,10 @@ Running the code, we get the following:
 
 ![download](https://user-images.githubusercontent.com/67652297/208561011-01ac8be5-0d76-4ed2-a15f-62f7286b52a4.png)
 
+- accuracy vs. \alpha
+
+![download](https://user-images.githubusercontent.com/67652297/208753374-d062a8bd-c232-4798-bceb-4c26e61b36b2.png)
+
 You can also do the same on IBM real hardware using your IBM account. Create one on [IBM's webpage](https://quantum-computing.ibm.com/) if you do not have any :)
 
 
