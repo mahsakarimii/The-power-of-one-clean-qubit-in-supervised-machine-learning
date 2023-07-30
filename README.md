@@ -17,7 +17,7 @@ Quantum kernel codes are provided in Kernel [preparation.py](https://github.com/
 The plots are produced by [plots.py](https://github.com/mahsakarimii/The-power-of-one-clean-qubit-in-supervised-machine-learning./blob/main/plots.py).
 After that, changing the parameter \alpha has been shown in [alpha.py](https://github.com/mahsakarimii/The-power-of-one-clean-qubit-in-supervised-machine-learning./blob/main/alpha.py), you can run the code for different values of \alpha and get accuracy vs.\alpha plots, for different datasets like ``ad-hoc'', ``make-moon'' and ``make-circle''.
 
-Overall, to get the outputs, one could simply run [code.py](https://github.com/mahsakarimii/The-power-of-one-clean-qubit-in-supervised-machine-learning./blob/main/code.py).
+Overall, to get the outputs, one could simply run [code.py](https://github.com/mahsakarimii/The-power-of-one-clean-qubit-in-supervised-machine-learning./blob/main/code.py) which has been written on these versions: qiskit==0.34.1, qiskit-machine-learning==0.3.0 .
 
 ## Outputs
 Running the code, we get the following:
